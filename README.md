@@ -20,13 +20,3 @@
 - Pydantic
 - Docker
 
-# How to run
-
-### Запустить
-```
-docker-compose up
-```
-### Создать таблицы
-```
-docker-compose run web python create_tables.py
-```
