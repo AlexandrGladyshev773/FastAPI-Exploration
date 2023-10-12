@@ -21,10 +21,7 @@
 - Docker
 
 # How to run
-### Склонировать репозиторий
-```
-git clone https://github.com/Potagashev/polls.git
-```
+
 ### Запустить
 ```
 docker-compose up
